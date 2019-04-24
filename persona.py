@@ -10,3 +10,4 @@ class Persona:
     def get_edad_persona(self):
         return self.edad_persona
 yo = Persona("pepito",25)
+
